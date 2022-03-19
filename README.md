@@ -16,6 +16,6 @@ For it to work you should turn off CORS in your Google Chrome Browser by using o
 
 If you are using Firefox, you can install this add-on: https://addons.mozilla.org/pt-PT/firefox/addon/access-control-allow-origin/
 
-#WebApp
+# WebApp
 
 ![WebApp](https://github.com/sofiateixeiraa/just-eat-frontendtest/blob/master/WebApp.PNG)
