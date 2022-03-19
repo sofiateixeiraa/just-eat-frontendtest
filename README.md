@@ -11,7 +11,7 @@ You may also see any lint errors in the console.
 # CORS Policy
 For it to work you should turn off CORS in your Google Chrome by using one extension:
 
-1.You can download this one, for example: https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
+1.You can download this one, for example: https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino \
 2.Once it's download you can just click the button on the right corner to turn it on and click it again to activate again after testing.
 
 
