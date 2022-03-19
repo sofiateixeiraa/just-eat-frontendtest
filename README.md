@@ -9,10 +9,14 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # CORS Policy
-For it to work you should turn off CORS in your Google Chrome Browser by using one extension:
+In order for the WebApp to work you must disable CORS in your browser by using one extension:
+
+### Google Chrome
 
 1.You can download this one, for example: https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino \
 2.Once it's downloaded you can just click on the button on the right corner to turn it on and click it again to activate again after testing. 
+
+### Firefox
 
 If you are using Firefox, you can install this add-on: https://addons.mozilla.org/pt-PT/firefox/addon/access-control-allow-origin/
 
