@@ -8,7 +8,7 @@ I would totally improve the UI&UX for a more fluid experience, like adding the l
 
 # 3. What was the most useful feature that was added to the latest version of your chosen language?
 
-Although this function does not belong to recent JavaScript updates, it was one of the updates that most revolutionized the way of asynchronous programming and, in this project, to use the API in a more efficient way was fundamental. It started with callback functions that allowed you to define asynchronous behavior through functions passed to other functions as parameters, this was upgraded by introducing Promises. Then, finally, with ES8 (2017), it was introduced the async/await syntax. It made the process of writing asynchronous code easier, simpler, and more intuitive. Using Asynchronous programming allows us to get much more things done in a short amount of time which can be very helpful in web applications.
+Although this function does not belong to the latest JavaScript update, it was one of the updates that most revolutionized the way of asynchronous programming and, in this project, to use the API in a more efficient way was fundamental. It started with callback functions that allowed you to define asynchronous behavior through functions passed to other functions as parameters, this was upgraded by introducing Promises. Then, finally, with ES8 (2017), it was introduced the async/await syntax. It made the process of writing asynchronous code easier, simpler, and more intuitive. Using Asynchronous programming allows us to get much more things done in a short amount of time which can be very helpful in web applications.
 
 # 4 How would you track down a performance issue in production? Have you ever had to do this?
 
