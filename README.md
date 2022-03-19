@@ -12,7 +12,7 @@ You may also see any lint errors in the console.
 For it to work you should turn off CORS in your Google Chrome Browser by using one extension:
 
 1.You can download this one, for example: https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino \
-2.Once it's downloaded you can just click on the button on the right corner to turn it on and click it again to activate again after testing. \
+2.Once it's downloaded you can just click on the button on the right corner to turn it on and click it again to activate again after testing. 
 
 If you are using Firefox, you can install this add-on: https://addons.mozilla.org/pt-PT/firefox/addon/access-control-allow-origin/
 
