@@ -9,7 +9,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # CORS Policy
-In order for the WebApp to work you must disable CORS in your browser by using one extension:
+In order for the WebApp to work you must disable CORS in your browser by using an extension:
 
 ### Google Chrome
 
@@ -21,5 +21,6 @@ In order for the WebApp to work you must disable CORS in your browser by using o
 If you are using Firefox, you can install this add-on: https://addons.mozilla.org/pt-PT/firefox/addon/access-control-allow-origin/
 
 # WebApp
+Results returned for the code ec4m:
 
 ![WebApp](https://github.com/sofiateixeiraa/just-eat-frontendtest/blob/master/WebApp.PNG)
